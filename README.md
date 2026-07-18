@@ -15,3 +15,4 @@ https://docs.google.com/spreadsheets/d/1QVhmpfthWYicMAq9McnwAonZhegXaAFKpMZCigwB
 - Spoons
 - Tide Athletic laundry detergent
 - Lemon pepper seasoning
+- Chili crisp
