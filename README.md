@@ -15,4 +15,6 @@ https://docs.google.com/spreadsheets/d/1QVhmpfthWYicMAq9McnwAonZhegXaAFKpMZCigwB
 - Spoons
 - Tide Athletic laundry detergent
 - Lemon pepper seasoning
-- Chili crisp
+- Lao Gan Ma Spicy Chili Crisp (7.41 oz) — product photo embedded in the sheet
+
+![Lao Gan Ma Spicy Chili Crisp](assets/lao-gan-ma-spicy-chili-crisp.jpg)
